@@ -39,3 +39,13 @@
 六月份每天最低气温在10度左右，最高气温在22度左右，昼夜温差大。
 
 ![气温](./images/xiningqiwen.jpeg)
+
+西北天气以多云晴天为主
+
+未来40天天气预报：
+
+- 甘肃：https://www.40tianqi.cn/gansu/
+
+- 青海：https://www.40tianqi.cn/qinghai/
+
+但是还把高，气候变化很快，雨水天气来的快走的也快，一天气温变化也快。
