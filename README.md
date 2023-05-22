@@ -6,4 +6,4 @@
 
 ## 一、西北旅游
 
-### [青干大环线](./qingganhuanxian/README.md)
+### [青甘大环线](./qingganhuanxian/README.md)
