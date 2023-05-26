@@ -7,3 +7,5 @@
 ## 一、西北旅游
 
 ### [青甘大环线](./qingganhuanxian/README.md)
+
+伊犁小环线
