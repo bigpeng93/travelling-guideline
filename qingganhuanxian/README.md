@@ -18,49 +18,27 @@
 
 萧山国际机场T3 ✈️ 曹家堡机场T2
 
-- 直飞：
-
-    国航CA8509 09:10-12:30 ￥2230
-
-    川航3U4039/长龙GJ4812 14:10-17:30 ￥1220
-
-- 经停洛阳：
-
-    厦航MF8257/南航CZ4194 08:45-13:40 $1177
-
 - 经停泸州：
 
-    川航3U3173/南航CZ9043 07:20-13:00 ￥1107
-
-- 经停邯郸：
-
-    长龙GJ8977/南航CZ4812 06:30-11:35 ￥1294
-
-国航直飞价格高，川航和长龙的直飞时间比较晚，我觉着经停泸州的航班比较合适
+    川航3U3173/南航CZ9043 07:20-13:00
 
 #### 2、租车
 
+- 神州租车
+
 #### 3、办理入住
+
+- 星程酒店（西宁力盟商业步行街店）
 
 #### 4、超市购买物资
 
-    如果时间早的话，可以先去塔尔寺
+- 一家亲生鲜市集
+
+如果时间早的话，可以先去塔尔寺
 
 #### 5、西宁夜市
 
 - 莫家街
-
-入住酒店(06-17 - 06-18)： 
-
-- [全季酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=2703246): 靠近[莫家街](https://www.travel-rabbit.com/post/15578)
-
-- [亚朵](https://hotels.ctrip.com/hotels/detail/?hotelId=23880549)
-
-- [桔子](https://hotels.ctrip.com/hotels/detail/?hotelId=7838017)
-
-- [希尔顿](https://hotels.ctrip.com/hotels/detail/?hotelId=78819539):不可取消
-
-
 
 ### DAY 2 (06-18)
 
@@ -94,8 +72,6 @@
 
 入住酒店(06-18 -> 06-19)：
 
-- [如家精选](https://hotels.ctrip.com/hotels/detail/?hotelId=44753681): 靠近景区
-
 - [茶卡盐湖青盐2号宾馆]:https://hotels.ctrip.com/hotels/detail/?hotelId=66784866: 景区内，可以看日出、日落和星星
 
 美食推荐：
@@ -128,9 +104,7 @@ B计划：
 
 入住酒店(06-19 -> 06-21)：
 
-- [像雅酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=107183338):评价好
-
-- [美豪R酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=97485243): 4星
+- [维也纳酒店](https://hotels.ctrip.com/hotels/detail?hotelid=62502260&cityid=7589)
 
 美食推荐：
 
@@ -168,11 +142,7 @@ B计划：
 
 入住酒店(06-20 -> 06-22)：
 
-- [敦煌博汇文华酒店(沙洲夜市店)](https://hotels.ctrip.com/hotels/detail/?hotelId=8312187)
-
-- 特色：
-
-    - [鸣沙山橘子星空沙漠露营民宿](https://hotels.ctrip.com/hotels/detail/?hotelId=97227832): 公共卫浴
+- [敦煌云天国际酒店(沙洲夜市店)](https://hotels.ctrip.com/hotels/detail?hotelid=5398509&cityid=11)
 
 可以摘星星的地方：
 
@@ -242,12 +212,6 @@ B计划：
 
 - [全季酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=2703246): 靠近[莫家街](https://www.travel-rabbit.com/post/15578)
 
-- [亚朵](https://hotels.ctrip.com/hotels/detail/?hotelId=23880549)
-
-- [桔子](https://hotels.ctrip.com/hotels/detail/?hotelId=7838017)
-
-- [希尔顿](https://hotels.ctrip.com/hotels/detail/?hotelId=78819539):不可取消
-
 美食推荐：
 
 ### DAY 8 (06-24)
@@ -256,25 +220,9 @@ B计划：
 
 航班
 
-- 直飞：
-
-    国航CA8509 13:55-17:00 ￥2230
-
-    长龙GJ8198/海航HU2198/厦航MF5807/华夏G56350 20:15-23:25 ￥1640
-
-- 经停洛阳：
-
-    厦航MF8258/南航CZ4195/长龙GJ3396 14:40-19：50 $1770
-
 - 经停泸州：
 
-    厦航MF5043/华夏G58638/长龙GJ5010/南航CZ9044 13:45-18:45 ￥1670
-
-- 经停邯郸：
-
-    厦航MF5783/南航CZ4813/海航HU2978/长龙GJ8978 19:50-00:35 ￥1640
-
-我觉着经停泸州比较好，可以早点回来休息休息
+    厦航MF5043/华夏G58638/长龙GJ5010/南航CZ9044 13:45-18:45
 
 ## 携带物品
 
@@ -306,17 +254,15 @@ B计划：
 
     - 肠胃药：蒙脱石散
 
-    - 外用药品：敷贴、创可贴、纱布、碘伏棉签、胶布
+    - 外用药品：敷贴、创可贴、纱布、胶布
 
 当地购买：
 
-- 便携氧气瓶、葡萄糖
+- 便携氧气瓶、葡萄糖、碘伏棉签
 
 3、装备类：
 
 - 墨镜、防沙防水鞋套、帽子、口罩、毛巾、导汗条
-
-- **棒球棍**
 
 - 大保温壶
 
@@ -334,4 +280,4 @@ B计划：
 
 - 红糖
 
-- 预备自热食品，两天即可
+- 预备自热食品，两餐的量即可
