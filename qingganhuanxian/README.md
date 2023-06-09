@@ -72,7 +72,7 @@
 
 入住酒店(06-18 -> 06-19)：
 
-- [茶卡盐湖青盐2号宾馆]:https://hotels.ctrip.com/hotels/detail/?hotelId=66784866: 景区内，可以看日出、日落和星星
+- [茶卡盐湖青盐2号宾馆](https://hotels.ctrip.com/hotels/detail/?hotelId=66784866): 景区内，可以看日出、日落和星星
 
 美食推荐：
 
